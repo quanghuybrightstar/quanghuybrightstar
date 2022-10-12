@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quanghuybrightstar" alt="quanghuybrightstar" /></a> </p>
 
-- 🔭 I’m currently studying [Information Technology at University of Enginering and Technology (UET-VNU)(](https://uet.vnu.edu.vn/)
+- 🔭 I’m currently studying [Information Technology at University of Enginering and Technology (UET-VNU)](https://uet.vnu.edu.vn/)
 
 - 🌱 I’m currently learning **Front End development**
 
