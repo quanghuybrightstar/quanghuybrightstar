@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quang Huy (Galvin)</h1>
-<h3 align="center">A passionate frontend developer from VietNam</h3>
+<h3 align="center">A passionate frontend developer from Viet nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quanghuybrightstar&label=Profile%20views&color=0e75b6&style=flat" alt="quanghuybrightstar" /> </p>
 
