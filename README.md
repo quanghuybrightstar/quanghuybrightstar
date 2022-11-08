@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying [Information Technology at University of Enginering and Technology (UET-VNU)](https://uet.vnu.edu.vn/)
 
-- 🌱 I’m currently learning **Front End development**
+- 🌱 I’m currently learning **Front-end Development**
 
 - 📫 How to reach me **daoquanghuy2907@gmail.com**
 
