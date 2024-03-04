@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Quang Huy</h1>
+<h1 align="center">Hi 👋, I'm Galvin</h1>
 <h3 align="center">A passionate Frontend developer from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quanghuybrightstar&label=Profile%20views&color=0e75b6&style=flat" alt="quanghuybrightstar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quanghuybrightstar" alt="quanghuybrightstar" /></a> </p>
 
-- 🔭 I’m currently studying [Information Technology at University of Enginering and Technology (UET-VNU)](https://uet.vnu.edu.vn/)
+- 🔭 I've graduated from [Information Technology at University of Enginering and Technology (UET-VNU)](https://uet.vnu.edu.vn/)
 
 - 🌱 I’m currently learning **Front End Development**
 
